@@ -7,20 +7,17 @@
 📧 **Email**: [cy.kim@ewhain.net](mailto:cy.kim@ewhain.net)  
 🔗 **GitHub**: https://github.com/3olly
 
-<br>
 
 ---
 ### Info
 - ***School:*** <span style="color: #ADADAD">Ewha Womans University 2022.03~</span>
 - ***Major:*** <span style="color: #ADADAD">Cyber Security</span>
-<br>
 
 
 ---
 ### Experiences
 - ***LikeLion Ewha*** 12th <span style="color: #ADADAD">2024.03~</span>
 - ***ECOPS*** 11-12th <span style="color: #ADADAD">2022.09~2023.08</span>
-<br>
 
 
 ---
