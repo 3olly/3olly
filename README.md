@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20Chaeyeon's%20GitHub!&fontSize=50&descAlign=20)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Welcome%20to%20Chaeyeon's%20GitHub!&fontSize=50&descAlign=20&fontAlignY=30&animation=fadeIn)
 
 
 ## Chaeyeon Kim | 김채연
