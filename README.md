@@ -6,10 +6,17 @@
 <hr>
 
 <br>
-<br>
 💡 I'm majoring in
 
-⚡ ***Cyber Security*** <span style="color: #ADADAD"> @Ewha Womans Univ*</span>
+🔐 ***Cyber Security*** <span style="color: #ADADAD"> @Ewha Womans Univ*</span>
+<br>
+
+
+✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
+
+💙 ***LikeLion Ewha*** <span style="color: #ADADAD">2024.03~</span>
+
+💜 ***ECOPS*** <span style="color: #ADADAD">2022.09~2023.08</span>
 
 
 <a href="https://github.com/3olly"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=3olly&show_icons=true&theme=buefy&card_width=300" /></a>
