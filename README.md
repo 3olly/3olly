@@ -1,27 +1,28 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20Chaeyeon's%20GitHub!&fontSize=50&descAlign=20)
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F3olly%2Fhit-counter&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)   Chaeyeon Kim'𝚜 𝙶𝚒𝚝𝚑𝚞𝚋 *@3olly*　📍 ***Seoul*** *South Korea*
+## Chaeyeon Kim | 김채연
 
-<hr>
+🌐 **Tech Blog**: [blog.naver.com/amazingsparky](https://blog.naver.com/amazingsparky)  
+📧 **Email**: [cy.kim@ewhain.net](mailto:cy.kim@ewhain.net)  
+🔗 **GitHub**: https://github.com/3olly
 
 <br>
-💡My Info
+### Info
 
-- ***Email:*** <span style="color: #ADADAD">cy.kim@ewhain.net <a href="mailto:cy.kim@ewhain.net" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> </span>
 - ***School:*** <span style="color: #ADADAD">Ewha Womans University 2022.03~</span>
 - ***Major:*** <span style="color: #ADADAD">Cyber Security</span>
 <br>
 
 
 
-✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
+### Experiences
 - ***LikeLion Ewha*** <span style="color: #ADADAD">2024.03~</span>
 - ***ECOPS*** <span style="color: #ADADAD">2022.09~2023.08</span>
 <br>
 
 
-🛠 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
+### 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> -->
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
