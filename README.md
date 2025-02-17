@@ -7,9 +7,9 @@
 
 <br>
 💡My Info
-- Email : cy.kim@ewhain.net <a href="mailto:cy.kim@ewhain.net" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> 
-- School : Ewha Womans University 2022.03~
-- Major : Cyber Security
+- ***Email:*** <span style="color: #ADADAD">cy.kim@ewhain.net <a href="mailto:cy.kim@ewhain.net" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> </span>
+- ***School:*** <span style="color: #ADADAD">Ewha Womans University 2022.03~</span>
+- ***Major:*** <span style="color: #ADADAD">Cyber Security</span>
 <br>
 
 
@@ -28,13 +28,5 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white"> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white"> 
 
 <img src="https://img.shields.io/badge/Eclipse IDE-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> <img src="https://img.shields.io/badge/VS Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white"> <img src="https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=github&logoColor=white">
-
-
-<br>
-<a href="https://github.com/3olly"><img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=3olly&show_icons=true&theme=buefy&card_width=300" /></a>
-
-
-
-
 
 
