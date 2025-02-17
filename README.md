@@ -18,8 +18,8 @@
 
 ---
 ### Experiences
-- ***LikeLion Ewha*** <span style="color: #ADADAD">2024.03~</span>
-- ***ECOPS*** <span style="color: #ADADAD">2022.09~2023.08</span>
+- ***LikeLion Ewha*** 12th <span style="color: #ADADAD">2024.03~</span>
+- ***ECOPS*** 11-12th <span style="color: #ADADAD">2022.09~2023.08</span>
 <br>
 
 
