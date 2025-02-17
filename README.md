@@ -7,6 +7,7 @@
 
 <br>
 💡My Info
+
 - ***Email:*** <span style="color: #ADADAD">cy.kim@ewhain.net <a href="mailto:cy.kim@ewhain.net" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> </span>
 - ***School:*** <span style="color: #ADADAD">Ewha Womans University 2022.03~</span>
 - ***Major:*** <span style="color: #ADADAD">Cyber Security</span>
