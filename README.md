@@ -8,7 +8,7 @@
 <br>
 💡 I'm majoring in
 
-🔐 ***Cyber Security*** <span style="color: #ADADAD"> @Ewha Womans Univ</span>
+***Cyber Security***🔐 <span style="color: #ADADAD"> @Ewha Womans Univ</span>
 <br>
 <br>
 
