@@ -7,7 +7,6 @@
 
 <br>
 💡My Info
-
 - Email : cy.kim@ewhain.net <a href="mailto:cy.kim@ewhain.net" target="_blank" style="cursor: pointer; text-decoration: none;"><img src="https://img.shields.io/badge/-Gmail-%23D93025?logo=Gmail&logoColor=white" alt="Gmail Badge"></a> 
 - School : Ewha Womans University 2022.03~
 - Major : Cyber Security
@@ -16,9 +15,7 @@
 
 
 ✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
-
 - ***LikeLion Ewha*** <span style="color: #ADADAD">2024.03~</span>
-
 - ***ECOPS*** <span style="color: #ADADAD">2022.09~2023.08</span>
 <br>
 
