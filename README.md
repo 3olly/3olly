@@ -8,8 +8,9 @@
 🔗 **GitHub**: https://github.com/3olly
 
 <br>
-### Info
 
+### Info
+---
 - ***School:*** <span style="color: #ADADAD">Ewha Womans University 2022.03~</span>
 - ***Major:*** <span style="color: #ADADAD">Cyber Security</span>
 <br>
@@ -17,12 +18,14 @@
 
 
 ### Experiences
+---
 - ***LikeLion Ewha*** <span style="color: #ADADAD">2024.03~</span>
 - ***ECOPS*** <span style="color: #ADADAD">2022.09~2023.08</span>
 <br>
 
 
 ### 𝚂𝚔𝚒𝚕𝚕𝚜 & 𝚃𝚘𝚘𝚕𝚜
+---
 <!-- <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> -->
 
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
