@@ -6,11 +6,13 @@
 <hr>
 
 <br>
-💡 I'm majoring in
+💡My Info
 
-- ***Cyber Security***🔐 <span style="color: #ADADAD"> @Ewha Womans Univ 2022.03~</span>
+Email : cy.kim@ewhain.net
+School : Ewha Womans University 2022.03~
+Major : Cyber Security
 <br>
-<br>
+
 
 
 ✏ 𝙸'𝚟𝚎 𝚜𝚝𝚞𝚍𝚒𝚎𝚍 & 𝙸'𝚖 𝚜𝚝𝚞𝚍𝚢𝚒𝚗𝚐 𝚊𝚝
