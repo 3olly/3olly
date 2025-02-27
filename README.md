@@ -15,7 +15,7 @@
 
 ---
 ### Experiences
-- ***LikeLion Ewha*** 13th 대표 <span style="color: #ADADAD">2024.03~2025.01</span>
+- ***LikeLion Ewha*** 13th 대표 <span style="color: #ADADAD">2025.01~</span>
 - ***LikeLion Ewha*** 12th <span style="color: #ADADAD">2024.03~2025.01</span>
 - ***ECOPS*** 11-12th <span style="color: #ADADAD">2022.09~2023.08</span>
 
